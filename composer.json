@@ -1,0 +1,6 @@
+{
+    "require": {
+        "phpmailer/phpmailer": "^6.1",
+        "defuse/php-encryption": "^2.3"
+    }
+}

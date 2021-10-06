@@ -1,0 +1,18 @@
+.dt-body-nowrap {
+   white-space: nowrap;
+}
+th{
+	text-transform: capitalize;
+}
+.pencilLink, .trashLink{
+	cursor: pointer;
+}
+.copy{
+	cursor: pointer !important;
+}
+.sidebar .nav-item .collapse .collapse-inner .collapse-item{
+white-space: normal !important;
+}
+#tutorial-container figure img{
+	cursor:zoom-in;
+}
